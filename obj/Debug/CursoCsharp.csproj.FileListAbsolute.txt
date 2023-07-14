@@ -1,0 +1,16 @@
+A:\PrgramasCsharp\CursoCsharp\bin\Debug\CursoCsharp.exe.config
+A:\PrgramasCsharp\CursoCsharp\bin\Debug\CursoCsharp.exe
+A:\PrgramasCsharp\CursoCsharp\bin\Debug\CursoCsharp.pdb
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.AssemblyReference.cache
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.SuggestedBindingRedirects.cache
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.Form1.resources
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.Properties.Resources.resources
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.GenerateResource.cache
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.csproj.CoreCompileInputs.cache
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.exe
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.pdb
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.OperadoresAritmeticos.frmOAritmeticos.resources
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.MenuPrincipal.resources
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.Ejercicio1.resources
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.Ejercicio2.resources
+A:\PrgramasCsharp\CursoCsharp\obj\Debug\CursoCsharp.Ejercicios.EjercicioN3.resources
